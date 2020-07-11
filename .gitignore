@@ -73,3 +73,4 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 GMTK2020/Saved/
+GMTK2020/Intermediate/
