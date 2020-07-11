@@ -1512,3 +1512,196 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.07.11-12.43.55:733][674]LogSavePackage: Moving '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Saved/MainMenu7C7FC8A34956586A69FB8FB3540B88A5.tmp' to '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/Maps/MainMenu.umap'
 [2020.07.11-12.43.55:750][674]AssetCheck: New page: Asset Save: MainMenu
 [2020.07.11-12.43.55:750][674]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/MainMenu.MainMenu
+[2020.07.11-13.33.40:405][689]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.07.11-13.33.40:412][689]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/MainMenu' took 0.037
+[2020.07.11-13.33.40:412][689]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/UI/MainMenu] ([1] browsable assets)...
+[2020.07.11-13.33.40:412][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/UI/MainMenu]
+[2020.07.11-13.33.40:420][689]LogSavePackage: Moving '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Saved/MainMenu_Auto2ACE3DBA04954730B5756D59D784CEC6E.tmp' to '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Saved/Autosaves/Game/FirstPersonBP/UI/MainMenu_Auto2.uasset'
+[2020.07.11-13.33.40:421][689]LogFileHelpers: Auto-saving content packages took 0.010
+[2020.07.11-13.35.12:385][497]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.07.11-13.35.50:630][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/UI/MainMenu" FILE="../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/MainMenu.uasset" SILENT=true
+[2020.07.11-13.35.50:640][992]LogSavePackage: Moving '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Saved/MainMenuDF6088EF4EF065418C61E89E16D28725.tmp' to '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/MainMenu.uasset'
+[2020.07.11-13.35.50:651][992]AssetCheck: New page: Asset Save: MainMenu
+[2020.07.11-13.35.50:651][992]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/UI/MainMenu.MainMenu
+[2020.07.11-13.36.04:307][565]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.11-13.36.04:314][565]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.11-13.36.04:314][565]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.07.11-13.36.04:315][565]LogPlayLevel: [PlayLevel] Compiling MainMenu before play...
+[2020.07.11-13.36.04:543][565]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.07.11-13.36.04:547][565]LogPlayLevel: PlayLevel: Blueprint regeneration took 232 ms (1 blueprints)
+[2020.07.11-13.36.04:547][565]PIE: New page: PIE session: MainMenu (2020. júl. 11. 17:36:04)
+[2020.07.11-13.36.04:547][565]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2020.07.11-13.36.04:548][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000990s)
+[2020.07.11-13.36.04:549][565]LogAIModule: Creating AISystem for world MainMenu
+[2020.07.11-13.36.04:549][565]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2020.07.11-13.36.04:549][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.002058s)
+[2020.07.11-13.36.04:580][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2020.07.11-13.36.04:580][565]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.11-13.36.04:580][565]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.11-13.36.04:580][565]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.11-13.36.04:580][565]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.11-13.36.04:580][565]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.11-13.36.04:580][565]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.11-13.36.04:580][565]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.11-13.36.04:580][565]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.11-13.36.04:581][565]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.11-13.36.04:581][565]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.11-13.36.04:599][565]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.11-13.36.04:599][565]LogAudioMixer: Display: Name: Hangszórók (2 - USB Audio Device)
+[2020.07.11-13.36.04:599][565]LogAudioMixer: Display: Is Default: Yes
+[2020.07.11-13.36.04:599][565]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.11-13.36.04:599][565]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.11-13.36.04:599][565]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.11-13.36.04:599][565]LogAudioMixer: Display: Channel Order:
+[2020.07.11-13.36.04:599][565]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.11-13.36.04:599][565]LogAudioMixer: Display: 1: FrontRight
+[2020.07.11-13.36.04:611][565]LogAudioMixer: Display: Using Audio Device Hangszórók (2 - USB Audio Device)
+[2020.07.11-13.36.04:613][565]LogInit: FAudioDevice initialized.
+[2020.07.11-13.36.04:661][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-13.36.04:662][565]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.11-13.36.04:662][565]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.07.11-15.36.04
+[2020.07.11-13.36.04:662][565]LogWorld: Bringing up level for play took: 0.000329
+[2020.07.11-13.36.04:663][565]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2020.07.11-13.36.04:667][565]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.07.11-13.36.04:668][565]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu 0,87
+[2020.07.11-13.36.04:669][565]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.11-13.36.10:767][289]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.11-13.36.10:780][289]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.07.11-13.36.10:801][289]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.07.11-13.36.10:801][289]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.11-13.36.10:801][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-13.36.10:801][289]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2020.07.11-13.36.10:805][289]LogSlate: Window 'GMTK2020 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.11-13.36.10:806][289]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.11-13.36.10:806][289]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-13.36.10:806][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-13.36.10:809][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.11-13.36.10:809][289]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.11-13.36.10:813][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-13.36.10:841][289]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.11-13.36.10:846][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.07.11-13.36.10:881][291]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.07.11-13.36.18:395][ 99]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/FirstPersonBP/UI/Credits.Credits
+[2020.07.11-13.37.22:258][420]BlueprintLog: New page: Compile MainMenu
+[2020.07.11-13.37.22:297][420]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.07.11-13.37.23:094][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/UI/MainMenu" FILE="../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/MainMenu.uasset" SILENT=true
+[2020.07.11-13.37.23:105][504]LogSavePackage: Moving '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Saved/MainMenu775F41844FB7C78979219FB63EFDC971.tmp' to '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/MainMenu.uasset'
+[2020.07.11-13.37.23:116][504]AssetCheck: New page: Asset Save: MainMenu
+[2020.07.11-13.37.23:116][504]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/UI/MainMenu.MainMenu
+[2020.07.11-13.38.47:596][371]BlueprintLog: New page: Compile Credits
+[2020.07.11-13.38.47:638][371]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.07.11-13.38.48:525][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/UI/Credits" FILE="../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/Credits.uasset" SILENT=true
+[2020.07.11-13.38.48:529][463]LogSavePackage: Moving '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Saved/CreditsB2C3BA58492E20F6E663089ECC4E293E.tmp' to '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/Credits.uasset'
+[2020.07.11-13.38.48:542][463]AssetCheck: New page: Asset Save: Credits
+[2020.07.11-13.38.48:542][463]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/UI/Credits.Credits
+[2020.07.11-13.40.00:888][836]BlueprintLog: New page: Compile MainMenu
+[2020.07.11-13.40.00:933][836]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.07.11-13.40.01:690][910]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/UI/MainMenu" FILE="../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/MainMenu.uasset" SILENT=true
+[2020.07.11-13.40.01:701][910]LogSavePackage: Moving '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Saved/MainMenuF662BEF344E5BB2F0C8C6AAD984C7F3B.tmp' to '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/MainMenu.uasset'
+[2020.07.11-13.40.01:712][910]AssetCheck: New page: Asset Save: MainMenu
+[2020.07.11-13.40.01:712][910]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/UI/MainMenu.MainMenu
+[2020.07.11-13.40.24:428][581]LogEditorTransaction: Undo Paste clipboard contents
+[2020.07.11-13.41.30:087][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/UI/Credits" FILE="../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/Credits.uasset" SILENT=true
+[2020.07.11-13.41.30:094][234]LogSavePackage: Moving '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Saved/Credits0CA68BC24E689576243564BB7D6CD68D.tmp' to '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/Credits.uasset'
+[2020.07.11-13.41.30:106][234]AssetCheck: New page: Asset Save: Credits
+[2020.07.11-13.41.30:106][234]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/UI/Credits.Credits
+[2020.07.11-13.41.34:182][705]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.07.11-13.41.34:191][705]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.11-13.41.34:191][705]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.07.11-13.41.34:192][705]LogPlayLevel: [PlayLevel] Compiling MainMenu before play...
+[2020.07.11-13.41.34:396][705]LogPlayLevel: [PlayLevel] Compiling Credits before play...
+[2020.07.11-13.41.34:654][705]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.07.11-13.41.34:655][705]LogPlayLevel: PlayLevel: Blueprint regeneration took 463 ms (2 blueprints)
+[2020.07.11-13.41.34:655][705]PIE: New page: PIE session: MainMenu (2020. júl. 11. 17:41:34)
+[2020.07.11-13.41.34:655][705]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2020.07.11-13.41.34:656][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000888s)
+[2020.07.11-13.41.34:657][705]LogAIModule: Creating AISystem for world MainMenu
+[2020.07.11-13.41.34:657][705]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2020.07.11-13.41.34:657][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/MainMenu.MainMenu to /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu (0.001778s)
+[2020.07.11-13.41.34:689][705]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.07.11-13.41.34:689][705]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.11-13.41.34:689][705]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.11-13.41.34:689][705]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.11-13.41.34:689][705]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.11-13.41.34:689][705]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.11-13.41.34:689][705]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.11-13.41.34:689][705]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.11-13.41.34:689][705]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.11-13.41.34:689][705]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.11-13.41.34:689][705]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.11-13.41.34:707][705]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.11-13.41.34:707][705]LogAudioMixer: Display: Name: Hangszórók (2 - USB Audio Device)
+[2020.07.11-13.41.34:707][705]LogAudioMixer: Display: Is Default: Yes
+[2020.07.11-13.41.34:707][705]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.11-13.41.34:707][705]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.11-13.41.34:707][705]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.11-13.41.34:707][705]LogAudioMixer: Display: Channel Order:
+[2020.07.11-13.41.34:707][705]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.11-13.41.34:707][705]LogAudioMixer: Display: 1: FrontRight
+[2020.07.11-13.41.34:719][705]LogAudioMixer: Display: Using Audio Device Hangszórók (2 - USB Audio Device)
+[2020.07.11-13.41.34:720][705]LogInit: FAudioDevice initialized.
+[2020.07.11-13.41.34:766][705]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.11-13.41.34:766][705]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.07.11-13.41.34:767][705]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.07.11-15.41.34
+[2020.07.11-13.41.34:767][705]LogWorld: Bringing up level for play took: 0.000288
+[2020.07.11-13.41.34:767][705]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.07.11-13.41.34:771][705]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(776)]!
+[2020.07.11-13.41.34:772][705]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu 0,975
+[2020.07.11-13.41.34:773][705]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.11-13.41.42:767][656]LogSlate: Window 'GMTK2020 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.07.11-13.41.42:772][656]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.11-13.41.42:773][656]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_MainMenu
+[2020.07.11-13.41.42:773][656]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.11-13.41.42:773][656]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.07.11-13.41.42:773][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-13.41.42:777][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.07.11-13.41.42:777][656]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/FirstPersonBP/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.07.11-13.41.42:782][656]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.11-13.41.42:812][656]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.07.11-13.41.42:818][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.07.11-13.41.42:870][658]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.07.11-13.42.26:838][649]LogEditorTransaction: Undo Move Widget
+[2020.07.11-13.42.33:318][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/UI/Credits" FILE="../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/Credits.uasset" SILENT=true
+[2020.07.11-13.42.33:324][293]LogSavePackage: Moving '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Saved/Credits58D1D192459A306781F19ABCB4F02AF8.tmp' to '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/Credits.uasset'
+[2020.07.11-13.42.33:336][293]AssetCheck: New page: Asset Save: Credits
+[2020.07.11-13.42.33:336][293]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/UI/Credits.Credits
+[2020.07.11-13.42.40:082][876]LogEditorTransaction: Undo Move Widget
+[2020.07.11-13.42.51:392][129]LogEditorTransaction: Undo Move Widget
+[2020.07.11-13.44.36:198][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/UI/Credits" FILE="../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/Credits.uasset" SILENT=true
+[2020.07.11-13.44.36:204][ 70]LogSavePackage: Moving '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Saved/Credits2251B3C24F182FFA7ECB67A4EA8C0421.tmp' to '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/Credits.uasset'
+[2020.07.11-13.44.36:218][ 70]AssetCheck: New page: Asset Save: Credits
+[2020.07.11-13.44.36:218][ 70]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/UI/Credits.Credits
+[2020.07.11-13.45.58:710][730]BlueprintLog: New page: Compile MainMenu
+[2020.07.11-13.45.58:758][730]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.07.11-13.45.59:212][775]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/UI/MainMenu" FILE="../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/MainMenu.uasset" SILENT=true
+[2020.07.11-13.45.59:223][775]LogSavePackage: Moving '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Saved/MainMenu4FAF27294AAAA714FCDFBD83DF9ED497.tmp' to '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/MainMenu.uasset'
+[2020.07.11-13.45.59:234][775]AssetCheck: New page: Asset Save: MainMenu
+[2020.07.11-13.45.59:234][775]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/UI/MainMenu.MainMenu
+[2020.07.11-13.50.57:583][680]BlueprintLog: New page: Compile Credits
+[2020.07.11-13.50.57:790][680]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.07.11-13.50.58:336][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/UI/Credits" FILE="../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/Credits.uasset" SILENT=true
+[2020.07.11-13.50.58:343][740]LogSavePackage: Moving '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Saved/CreditsB2D19110434C7C10304DEB806C4CB380.tmp' to '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/Credits.uasset'
+[2020.07.11-13.50.58:355][740]AssetCheck: New page: Asset Save: Credits
+[2020.07.11-13.50.58:355][740]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/UI/Credits.Credits
+[2020.07.11-13.52.16:272][760]BlueprintLog: New page: Compile Credits
+[2020.07.11-13.52.16:472][760]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.07.11-13.52.16:868][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/UI/Credits" FILE="../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/Credits.uasset" SILENT=true
+[2020.07.11-13.52.16:875][800]LogSavePackage: Moving '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Saved/Credits44AA359145083D5FCEA046BCF41CBB23.tmp' to '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/Credits.uasset'
+[2020.07.11-13.52.16:887][800]AssetCheck: New page: Asset Save: Credits
+[2020.07.11-13.52.16:887][800]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/UI/Credits.Credits
+[2020.07.11-13.52.33:038][963]BlueprintLog: New page: Compile Credits
+[2020.07.11-13.52.33:235][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.07.11-13.52.33:718][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/UI/Credits" FILE="../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/Credits.uasset" SILENT=true
+[2020.07.11-13.52.33:725][ 14]LogSavePackage: Moving '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Saved/Credits45A01439460CDD84C0B571957FAB3261.tmp' to '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/UI/Credits.uasset'
+[2020.07.11-13.52.33:736][ 14]AssetCheck: New page: Asset Save: Credits
+[2020.07.11-13.52.33:736][ 14]LogContentValidation: Display: Validating WidgetBlueprint /Game/FirstPersonBP/UI/Credits.Credits
+[2020.07.11-13.52.37:149][394]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.07.11-13.52.37:314][394]LogSavePackage: Moving '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Saved/MainMenu1B4043ED42760C1A69EEC385D59BF349.tmp' to '../../../../../../Users/TDavid/Documents/GTMK2020/GMTK2020/GMTK2020/Content/FirstPersonBP/Maps/MainMenu.umap'
+[2020.07.11-13.52.37:335][394]AssetCheck: New page: Asset Save: MainMenu
+[2020.07.11-13.52.37:335][394]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/MainMenu.MainMenu
+[2020.07.11-13.52.48:540][154]LogSlate: Window 'Tutorials' being destroyed
+[2020.07.11-13.52.48:637][157]LogSlate: Window 'Tutorials' being destroyed
+[2020.07.11-13.52.52:255][585]LogEditorViewport: Clicking Background
+[2020.07.11-13.52.56:378][ 56]LogEditorViewport: Clicking Background
+[2020.07.11-13.52.56:479][ 68]LogEditorViewport: Clicking Background
+[2020.07.11-13.52.56:771][103]LogEditorViewport: Clicking Background
